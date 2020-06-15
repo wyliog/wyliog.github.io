@@ -229,7 +229,7 @@ exit
 - 个人 Blog:  [willants.com](https://willants.com)
 - 微信号:
 
-![微信号](https://www.willants.com/wp-content/uploads/2020/06/weichat.jpg)
+![img](/img/wechat.jpg)
 
 
 **[⬆ 返回顶部](#catalog)**
