@@ -2,7 +2,7 @@
 layout:       post
 title:        "windows 激活服务器搭建"
 subtitle:     "windows kms server setup"
-date:         2020-06-12 12:00:00
+date:         2020-06-14 12:00:00
 author:       "五柳"
 header-mask:  0.3
 catalog:      true
@@ -23,8 +23,7 @@ tags:
 
 <h2 id="catalog">目录</h2>
 
-- [安装docker](#docker_install)
-- [安装docker-compose](#docker_compose_install)
+- [安装docker/docker-compose](#docker_install)
 - [构建激活服务器](#build_registry_server)
 - [激活你的服务器](#build_server)
   - [windows](#registry_windows)
@@ -33,41 +32,12 @@ tags:
 
 ## 正文
 
-<h3 id="docker_install">安装docker</h3>
+<h3 id="docker_install">安装docker/docker-compose</h3>
 
-> 由于docker国外源安装很慢所以文章都将docker源修改为国内源，如果你在国外服务器安装可以不用修改源
+参照我这篇文章:
 
+[Docker 和 docker-compose安装](/2020/06/18/install-docker-dockercompose/)
 
-
-1. 使用官方脚本安装
-```
-curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
-```
-2. 手动安装
-```
-# step 1: 安装依赖
-sudo yum install -y yum-utils device-mapper-persistent-data lvm2
-# Step 2: 添加docker源
-# https://download.docker.com/linux/centos/docker-ce.repo 官方源
-sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
-# Step 3: 安装docker-ce
-sudo yum -y install docker-ce
-# Step 4: 开启Docker服务
-sudo systemctl start docker
-sudo systemctl enable docker
-```
-3. [官方文档](https://docs.docker.com/engine/install/centos/)
-
-<h3 id="docker_compose_install">安装docker-compose</h3>
-
-1. 获取docker-compose
-```
-udo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-```
-2. 修改权限
-```bash
-sudo chmod +x /usr/local/bin/docker-compose
-```
 
 <h3 id="build_registry_server">构建激活服务器</h3>
 
