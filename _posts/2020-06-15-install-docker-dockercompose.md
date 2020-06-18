@@ -102,17 +102,17 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 <h3 id="docker-principle">docker 原理解析</h3>
 
-* https://www.huweihuang.com/article/docker/docker-commands-principle/
-<h3 id="docker-principle">容器最佳实践</h3>
+[https://www.huweihuang.com/article/docker/docker-commands-principle/](https://www.huweihuang.com/article/docker/docker-commands-principle/)
+<h3 id="Best_Practices">容器最佳实践</h3>
 
-* https://martinliu.cn/posts/cloud-native-container-design/
-* https://www.slideshare.net/luebken/container-patterns
-* https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices
-* http://docs.projectatomic.io/container-best-practices
-* https://docs.openshift.com/enterprise/3.0/creating_images/guidelines.html
-* https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf
-* https://leanpub.com/k8spatterns/
-* https://12factor.net
+[https://martinliu.cn/posts/cloud-native-container-design/](https://martinliu.cn/posts/cloud-native-container-design/)
+[https://www.slideshare.net/luebken/container-patterns](https://www.slideshare.net/luebken/container-patterns)
+[https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices)
+[http://docs.projectatomic.io/container-best-practices](http://docs.projectatomic.io/container-best-practices)
+[https://docs.openshift.com/enterprise/3.0/creating_images/guidelines.html](https://docs.openshift.com/enterprise/3.0/creating_images/guidelines.html)
+[https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
+[https://leanpub.com/k8spatterns/](https://leanpub.com/k8spatterns/)
+[https://12factor.net](https://12factor.net)
 
 
 

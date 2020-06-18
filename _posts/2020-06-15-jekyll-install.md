@@ -74,13 +74,14 @@ docker-compose up -d
 
 <h3 id="write_frist_blog">开始写你的第一篇文章</h3>
 
-1. 在_posts下新建一个md文件
+- 在_posts下新建一个md文件
 
-格式:YYYY-MM-DD-NAME.md
+> 格式:YYYY-MM-DD-NAME.md
 
-2. 写上文章标题
+
+- 写上文章标题
+
 ```
----
 layout:       post
 title:        "Jekyll 构建一个属于你的博客"
 subtitle:     "Jekyll build your own blog"
@@ -92,9 +93,9 @@ multilingual: true
 tags:
     - jekyll
     - blog
----
 ```
-3. 开始用markdown开启你的创作之旅吧
+
+最后开始用markdown开启你的创作之旅吧
 
 
 
