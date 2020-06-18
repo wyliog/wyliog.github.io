@@ -58,7 +58,7 @@ tags:
 
 参照我这篇文章:
 
-[Docker 和 docker-compose安装](/2020/06/18/install-docker-dockercompose/)
+[Docker 和 docker-compose安装](/2020/06/15/install-docker-dockercompose/)
 
 <div id="clone_theme">clone一个主题</div>
 

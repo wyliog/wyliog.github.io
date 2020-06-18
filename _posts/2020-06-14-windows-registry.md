@@ -36,7 +36,7 @@ tags:
 
 参照我这篇文章:
 
-[Docker 和 docker-compose安装](/2020/06/18/install-docker-dockercompose/)
+[Docker 和 docker-compose安装](/2020/06/15/install-docker-dockercompose/)
 
 
 <h3 id="build_registry_server">构建激活服务器</h3>

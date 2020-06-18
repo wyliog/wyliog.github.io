@@ -10,6 +10,7 @@ multilingual: true
 tags:
     - jekyll
     - blog
+    - docker
 ---
 
 # 安装docker
