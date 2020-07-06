@@ -21,26 +21,26 @@ tags:
 
 <h2 id="catalog">目录</h2>
 
-- [目录1](#dictionary_1)
-- [目录2](#dictionary_2)
-- [目录3](#dictionary_3)
-  - [目录3.1](#dictionary_3.1)
-  - [目录3.2](#dictionary_3.2)
-  - [目录3.3](#dictionary_3.3)
-- [目录4](#dictionary_4)
-- [目录5](#dictionary_5)
+- [目录1](#directory_1)
+- [目录2](#directory_2)
+- [目录3](#directory_3)
+  - [目录3.1](#directory_3.1)
+  - [目录3.2](#directory_3.2)
+  - [目录3.3](#directory_3.3)
+- [目录4](#directory_4)
+- [目录5](#directory_5)
 
 
 ## 正文
 
-<h3 id="dictionary_1">目录1</h3>
-<h3 id="dictionary_2">目录2</h3>
-<h3 id="dictionary_3">目录3</h3>
-<h3 id="dictionary_3.1">目录3.1</h3>
-<h3 id="dictionary_3.2">目录3.2</h3>
-<h3 id="dictionary_3.3">目录3.3</h3>
-<h3 id="dictionary_4">目录4</h3>
-<h3 id="dictionary_5">目录5</h3>
+<h3 id="directory_1">目录1</h3>
+<h3 id="directory_2">目录2</h3>
+<h3 id="directory_3">目录3</h3>
+<h3 id="directory_3.1">目录3.1</h3>
+<h3 id="directory_3.2">目录3.2</h3>
+<h3 id="directory_3.3">目录3.3</h3>
+<h3 id="directory_4">目录4</h3>
+<h3 id="directory_5">目录5</h3>
 
 
 
