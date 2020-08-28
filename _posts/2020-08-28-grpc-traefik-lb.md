@@ -116,10 +116,10 @@ metadata:
 spec:
   tls:
     - hosts:
-        - "navinter-asr-dev01.fano.ai"
+        - "xxx.com"
       secretName: vad-cert
   rules:
-    - host: "navinter-asr-dev01.fano.ai"
+    - host: "xxx.com"
       http:
         paths:
           - path: /
